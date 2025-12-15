@@ -5,7 +5,7 @@
 
 <h3 align="center">Hi 👋, I'm Isanka</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<h3 align="center">A passionate fullstack developer from Sri lanka</h3>
+<h3 align="center">A passionate Mobile developer from Sri lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isanka23&label=Profile%20views&color=0e75b6&style=flat" alt="isanka23" /> </p>
 
