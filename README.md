@@ -1,6 +1,10 @@
 # Hi there, I'm Isanka 👋
 
-### Software Engineer | Final Year CS & AI Student
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Software+Engineer;Next.js+%26+TypeScript;Flutter+Developer;AI" alt="Typing SVG" />
+</p>
+
+### Software Engineer | Final-year student in Software Engineering
 
 I am a developer focused on building high-performance systems across web and mobile platforms. Currently, I am specializing in the **T3 Stack** (TypeScript, Next.js, Prisma) while leveraging my background in **Flutter** and **AI research** to build intelligent applications.
 
@@ -19,16 +23,15 @@ I am a developer focused on building high-performance systems across web and mob
 **Mobile & AI**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
----
-
-### 📊 GitHub Activity
-![Isanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanka23&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanka23&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isanka-samarawickrama-153026268)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isankavimukthi3456@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/isanka.vimukthi/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/isanka_23?igsh=cGhxam5kZ2c1MmZ0)
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isanka23&label=Profile%20views&color=0e75b6&style=flat" alt="isanka23" />
+</p>
