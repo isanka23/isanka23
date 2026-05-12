@@ -9,7 +9,7 @@
 I am a developer focused on building high-performance systems across web and mobile platforms. Currently, I am specializing in the **T3 Stack** (TypeScript, Next.js, Prisma) while leveraging my background in **Flutter** and **AI research** to build intelligent applications.
 
 - 🛠️ **Current Focus:** Deep diving into TypeScript, Next.js 14 (App Router), and backend architecture.
-- 🎓 **Education:** Final year Undergraduate specializing in AI and Computer Science.
+- 🎓 **Education:** Final year Undergraduate in Software Enginnering
 - 🏗️ **Projects:** Developing **AquaClean** (AI for underwater waste detection) and high-performance web systems.
 - ⚡ **Personal:** When I'm not coding, you'll find me at the gym or on the basketball court.
 
